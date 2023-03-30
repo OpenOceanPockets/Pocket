@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/OpenOcean-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pocket01"
+	}
+}
