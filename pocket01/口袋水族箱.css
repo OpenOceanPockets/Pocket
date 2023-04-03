@@ -3,9 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-.img{
-    position: relative;
-    overflow: hidden;
-    margin: 0;
-    width: 1080px;
+@media screen and (min-width: 320px) {
+.item {
+    width: 100vh;
+    height: 100vh;
+}
 }
