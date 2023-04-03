@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../ME/2022 CODE檔/20220518 boostratp"
 		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "pocket01"
-	}
+	]
 }

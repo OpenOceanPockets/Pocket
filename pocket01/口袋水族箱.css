@@ -6,9 +6,3 @@
 body{
     overflow: hidden;
 }
-@media screen and (min-width: 320px) {
-.item {
-    width: 100vh;
-    height: 100vh;
-}
-}
