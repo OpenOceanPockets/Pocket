@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    overflow: hidden;
+}
 @media screen and (min-width: 320px) {
 .item {
     width: 100vh;
